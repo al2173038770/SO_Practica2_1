@@ -1,0 +1,1 @@
+extern int matriculaResta(long long m);
